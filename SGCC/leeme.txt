@@ -1,0 +1,4 @@
+crea una bd "bdcc3m"
+crea el user "3m" y la pass"1234" y se le conceden todos los permisos
+importa el archivo .sql
+y copia el software a htdocs

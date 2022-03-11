@@ -1,0 +1,1 @@
+<marquee><h1 style="font-size:24px">Bienvenido(a), <span><?php echo $_SESSION['username'];?>! </span></h1></marquee>
